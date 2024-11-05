@@ -1,0 +1,14 @@
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex012_alum\bin\Debug\net8.0\ex012_alum.exe
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex012_alum\bin\Debug\net8.0\ex012_alum.deps.json
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex012_alum\bin\Debug\net8.0\ex012_alum.runtimeconfig.json
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex012_alum\bin\Debug\net8.0\ex012_alum.dll
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex012_alum\bin\Debug\net8.0\ex012_alum.pdb
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex012_alum\obj\Debug\net8.0\ex012_alum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex012_alum\obj\Debug\net8.0\ex012_alum.AssemblyInfoInputs.cache
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex012_alum\obj\Debug\net8.0\ex012_alum.AssemblyInfo.cs
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex012_alum\obj\Debug\net8.0\ex012_alum.csproj.CoreCompileInputs.cache
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex012_alum\obj\Debug\net8.0\ex012_alum.dll
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex012_alum\obj\Debug\net8.0\refint\ex012_alum.dll
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex012_alum\obj\Debug\net8.0\ex012_alum.pdb
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex012_alum\obj\Debug\net8.0\ex012_alum.genruntimeconfig.cache
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex012_alum\obj\Debug\net8.0\ref\ex012_alum.dll

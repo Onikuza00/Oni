@@ -1,0 +1,14 @@
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex009_nPos\bin\Debug\net8.0\ex009_nPos.exe
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex009_nPos\bin\Debug\net8.0\ex009_nPos.deps.json
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex009_nPos\bin\Debug\net8.0\ex009_nPos.runtimeconfig.json
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex009_nPos\bin\Debug\net8.0\ex009_nPos.dll
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex009_nPos\bin\Debug\net8.0\ex009_nPos.pdb
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex009_nPos\obj\Debug\net8.0\ex009_nPos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex009_nPos\obj\Debug\net8.0\ex009_nPos.AssemblyInfoInputs.cache
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex009_nPos\obj\Debug\net8.0\ex009_nPos.AssemblyInfo.cs
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex009_nPos\obj\Debug\net8.0\ex009_nPos.csproj.CoreCompileInputs.cache
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex009_nPos\obj\Debug\net8.0\ex009_nPos.dll
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex009_nPos\obj\Debug\net8.0\refint\ex009_nPos.dll
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex009_nPos\obj\Debug\net8.0\ex009_nPos.pdb
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex009_nPos\obj\Debug\net8.0\ex009_nPos.genruntimeconfig.cache
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex009_nPos\obj\Debug\net8.0\ref\ex009_nPos.dll

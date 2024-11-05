@@ -1,0 +1,14 @@
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex007_numGP\bin\Debug\net8.0\ex007_numGP.exe
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex007_numGP\bin\Debug\net8.0\ex007_numGP.deps.json
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex007_numGP\bin\Debug\net8.0\ex007_numGP.runtimeconfig.json
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex007_numGP\bin\Debug\net8.0\ex007_numGP.dll
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex007_numGP\bin\Debug\net8.0\ex007_numGP.pdb
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex007_numGP\obj\Debug\net8.0\ex007_numGP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex007_numGP\obj\Debug\net8.0\ex007_numGP.AssemblyInfoInputs.cache
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex007_numGP\obj\Debug\net8.0\ex007_numGP.AssemblyInfo.cs
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex007_numGP\obj\Debug\net8.0\ex007_numGP.csproj.CoreCompileInputs.cache
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex007_numGP\obj\Debug\net8.0\ex007_numGP.dll
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex007_numGP\obj\Debug\net8.0\refint\ex007_numGP.dll
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex007_numGP\obj\Debug\net8.0\ex007_numGP.pdb
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex007_numGP\obj\Debug\net8.0\ex007_numGP.genruntimeconfig.cache
+C:\Users\PauCB\OneDrive\Escritorio\DAW\Programació\PROGRAMES\Programacio Estructurada - Iterativa\A1.5 Composició Iterativa. Recorreguts amb While Fitxer\ex007_numGP\obj\Debug\net8.0\ref\ex007_numGP.dll

@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PauCB\\OneDrive\\Escritorio\\DAW\\Programaci\u00F3\\PROGRAMES\\Programacio Estructurada - Iterativa\\A1.5 Composici\u00F3 Iterativa. Recorreguts amb While Fitxer\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{607B0315-B54B-4D5E-9D71-693802490533}|..\\ex012_alum\\ex012_alum.csproj|c:\\users\\paucb\\onedrive\\escritorio\\daw\\programaci\u00F3\\programes\\programacio estructurada - iterativa\\a1.5 composici\u00F3 iterativa. recorreguts amb while fitxer\\ex012_alum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EA51C0-5A6F-46E1-8899-0473159755FF}|..\\ex010_dau\\ex010_dau.csproj|c:\\users\\paucb\\onedrive\\escritorio\\daw\\programaci\u00F3\\programes\\programacio estructurada - iterativa\\a1.5 composici\u00F3 iterativa. recorreguts amb while fitxer\\ex010_dau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C492153E-75D7-4548-B41C-6178433559BA}|..\\ex009_nPos\\ex009_nPos.csproj|c:\\users\\paucb\\onedrive\\escritorio\\daw\\programaci\u00F3\\programes\\programacio estructurada - iterativa\\a1.5 composici\u00F3 iterativa. recorreguts amb while fitxer\\ex009_npos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B45BD4-F9BC-4F03-BE2C-29E378FAC406}|..\\ex008_fi\\ex008_fi.csproj|c:\\users\\paucb\\onedrive\\escritorio\\daw\\programaci\u00F3\\programes\\programacio estructurada - iterativa\\a1.5 composici\u00F3 iterativa. recorreguts amb while fitxer\\ex008_fi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9035730A-22B4-43B2-BB2E-9C82C967812A}|..\\ex007_numGP\\ex007_numGP.csproj|c:\\users\\paucb\\onedrive\\escritorio\\daw\\programaci\u00F3\\programes\\programacio estructurada - iterativa\\a1.5 composici\u00F3 iterativa. recorreguts amb while fitxer\\ex007_numgp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD86E5D-AEEC-46D5-ADB1-77D96007AFDC}|..\\ex006_tx2\\ex006_tx2.csproj|c:\\users\\paucb\\onedrive\\escritorio\\daw\\programaci\u00F3\\programes\\programacio estructurada - iterativa\\a1.5 composici\u00F3 iterativa. recorreguts amb while fitxer\\ex006_tx2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PauCB\\OneDrive\\Escritorio\\DAW\\Programaci\u00F3\\PROGRAMES\\Programacio Estructurada - Iterativa\\A1.5 Composici\u00F3 Iterativa. Recorreguts amb While Fitxer\\ex012_alum\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex012_alum\\Program.cs",
+              "ToolTip": "C:\\Users\\PauCB\\OneDrive\\Escritorio\\DAW\\Programaci\u00F3\\PROGRAMES\\Programacio Estructurada - Iterativa\\A1.5 Composici\u00F3 Iterativa. Recorreguts amb While Fitxer\\ex012_alum\\Program.cs",
+              "RelativeToolTip": "..\\ex012_alum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:21:28.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PauCB\\OneDrive\\Escritorio\\DAW\\Programaci\u00F3\\PROGRAMES\\Programacio Estructurada - Iterativa\\A1.5 Composici\u00F3 Iterativa. Recorreguts amb While Fitxer\\ex010_dau\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex010_dau\\Program.cs",
+              "ToolTip": "C:\\Users\\PauCB\\OneDrive\\Escritorio\\DAW\\Programaci\u00F3\\PROGRAMES\\Programacio Estructurada - Iterativa\\A1.5 Composici\u00F3 Iterativa. Recorreguts amb While Fitxer\\ex010_dau\\Program.cs",
+              "RelativeToolTip": "..\\ex010_dau\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:26:35.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PauCB\\OneDrive\\Escritorio\\DAW\\Programaci\u00F3\\PROGRAMES\\Programacio Estructurada - Iterativa\\A1.5 Composici\u00F3 Iterativa. Recorreguts amb While Fitxer\\ex009_nPos\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex009_nPos\\Program.cs",
+              "ToolTip": "C:\\Users\\PauCB\\OneDrive\\Escritorio\\DAW\\Programaci\u00F3\\PROGRAMES\\Programacio Estructurada - Iterativa\\A1.5 Composici\u00F3 Iterativa. Recorreguts amb While Fitxer\\ex009_nPos\\Program.cs",
+              "RelativeToolTip": "..\\ex009_nPos\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:10:40.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PauCB\\OneDrive\\Escritorio\\DAW\\Programaci\u00F3\\PROGRAMES\\Programacio Estructurada - Iterativa\\A1.5 Composici\u00F3 Iterativa. Recorreguts amb While Fitxer\\ex008_fi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex008_fi\\Program.cs",
+              "ToolTip": "C:\\Users\\PauCB\\OneDrive\\Escritorio\\DAW\\Programaci\u00F3\\PROGRAMES\\Programacio Estructurada - Iterativa\\A1.5 Composici\u00F3 Iterativa. Recorreguts amb While Fitxer\\ex008_fi\\Program.cs",
+              "RelativeToolTip": "..\\ex008_fi\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:56:49.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PauCB\\OneDrive\\Escritorio\\DAW\\Programaci\u00F3\\PROGRAMES\\Programacio Estructurada - Iterativa\\A1.5 Composici\u00F3 Iterativa. Recorreguts amb While Fitxer\\ex007_numGP\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex007_numGP\\Program.cs",
+              "ToolTip": "C:\\Users\\PauCB\\OneDrive\\Escritorio\\DAW\\Programaci\u00F3\\PROGRAMES\\Programacio Estructurada - Iterativa\\A1.5 Composici\u00F3 Iterativa. Recorreguts amb While Fitxer\\ex007_numGP\\Program.cs",
+              "RelativeToolTip": "..\\ex007_numGP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:48:53.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PauCB\\OneDrive\\Escritorio\\DAW\\Programaci\u00F3\\PROGRAMES\\Programacio Estructurada - Iterativa\\A1.5 Composici\u00F3 Iterativa. Recorreguts amb While Fitxer\\ex006_tx2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ex006_tx2\\Program.cs",
+              "ToolTip": "C:\\Users\\PauCB\\OneDrive\\Escritorio\\DAW\\Programaci\u00F3\\PROGRAMES\\Programacio Estructurada - Iterativa\\A1.5 Composici\u00F3 Iterativa. Recorreguts amb While Fitxer\\ex006_tx2\\Program.cs",
+              "RelativeToolTip": "..\\ex006_tx2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T16:40:36.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
