@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ex016_cord")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f960cdedd8fe2c077ff8b0115cd7cbca104babbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ex016_cord")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ex016_cord")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
